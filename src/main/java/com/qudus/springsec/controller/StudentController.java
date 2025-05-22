@@ -1,4 +1,4 @@
-package com.qudus.springsec;
+package com.qudus.springsec.controller;
 
 import java.util.ArrayList;
 import java.util.List;
